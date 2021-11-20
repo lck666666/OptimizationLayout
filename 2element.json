@@ -1,0 +1,56 @@
+{
+  "layouts" : [
+    {
+      "borderXPadding" : 0,
+      "elementXPadding" : 0,
+      "id" : "originalLayout",
+      "borderYPadding" : 0,
+      "isOptimised" : false,
+      "isEdited" : false,
+      "canvasWidth" : 800,
+      "userRating" : 0,
+      "canvasHeight" : 800,
+      "elementYPadding" : 0,
+      "NumOfSolutions": 2,
+      "score" : 0,
+      "elements" : [
+        {
+          "id" : "<ParagraphElement: 0x600003b5c541>",
+          "x" : -1,
+          "y" : -1,
+          "R" :  2,
+          "A" :  0.7,
+          "k_R" : 0.2,
+          "k_A" : 0.1,
+          "isDrawingFill" : 1,
+          "minWidth" : 100,
+          "maxWidth" : 800,
+          "type" : "text",
+          "color" : "green",
+          "isLocked" : "false",
+          "minHeight" : 100,
+          "maxHeight" : 800
+        },
+        {
+          "id" : "<ParagraphElement: 0x600003b5c541>",
+          "x" : -1,
+          "y" : -1,
+          "R" :  0.5,
+          "A" :  0.3,
+          "k_R" : 0.2,
+          "k_A" : 0.1,
+          "isDrawingFill" : 1,
+          "minWidth" : 100,
+          "maxWidth" : 800,
+          "type" : "text",
+          "color" : "red",
+          "isLocked" : "true",
+          "minHeight" : 100,
+          "maxHeight" : 800
+        }
+      ],
+      "isSaved" : false
+    }
+  ]
+}
+
